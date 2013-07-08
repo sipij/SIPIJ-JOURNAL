@@ -1,0 +1,37 @@
+Scope & Topics
+ignal & Image Processing : An International Journal is an Open Access peer-reviewed journal intended for researchers from academia and industry, who are active in the multidisciplinary field of signal & image processing. The scope of the journal covers all theoretical and practical aspects of the Digital Signal Processing & Image processing, from basic research to development of application.
+
+Authors are solicited to contribute to the journal by submitting articles that illustrate research results, projects, surveying works and industrial experiences that describe significant advances in the areas of Signal & Image processing. Topics of interest include, but are not limited to, the following
+
+    Applied Digital Signal Processing
+
+    Coding and Transmission
+
+    Digital Signal Processing in Communications
+
+    Emerging technologies
+
+    Emerging Technologies in Digital Signal Processing
+
+    Image & signal processing Applications
+
+    Image Acquisition and Display:
+
+    Image and Video Processing & Analysis
+
+    Image formation
+
+    Image scanning, display, and printing
+
+    Storage and Retrieval
+
+Important Dates
+
+    Submission deadline     : 16 July, 2013
+
+    Notification            : 16 August, 2013
+
+    Final manuscript due    : 18 August, 2013
+
+    Publication date        : determined by the Editor-in-Chief
+
