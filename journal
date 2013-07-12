@@ -1,138 +1,44 @@
 
+                                 Signal & Image Processing : An International Journal (SIPIJ)
+                                 
+Scope & Topics
+  
+     Signal & Image Processing : An International Journal is intended for researchers from academia and industry, who are active in 
+     the multidisciplinary field of signal & image processing. The scope of the journal covers all theoretical and practical aspects of 
+     the Digital Signal Processing & Image processing, from basic research to development of application.
+     
+     Authors are solicited to contribute to the journal by submitting articles that illustrate research results, projects, 
+     surveying works and industrial experiences that describe significant advances in the areas of Signal & Image processing. 
+     
+     
+Topics of interest include, but are not limited to, the following:
+ 
+                * Applied Digital Signal Processing
 
-   <head>
-<title>Signal & Image Processing : An International Journal (SIPIJ)</title>
-<style type="text/css">
-<!--
-body {
-        background-color: #094562;
-	font-size: 12px;
-	font-family: Georgia, "Times New Roman", Times, serif;
-}
-.fn {
-	font-size: 3;
-}
-.Ft {
-	color: #FFF;
-	font-family: Verdana, Geneva, sans-serif;
-	font-size: 9px;
-	font-weight: bold;
-}
-.mnf {
-	font-size: 12px;
-	font-weight: bold;
-	font-family: Verdana, Geneva, sans-serif;
-	color: #FFF;
-}
-.mnf1 {	font-size: 16px;
-	font-weight: bold;
-	font-family: Verdana, Geneva, sans-serif;
-	color: #FFF;
-}
-.title {
-	font-size: 27px;
-	font-weight: bold;
-	text-align: center;
-	color: #0072BC;
-	font-family: Georgia, "Times New Roman", Times, serif;
-}
-.ch1 {
-	font-size: 16px;
-	font-weight: bold;
-	font-family: Georgia, "Times New Roman", Times, serif;
-	color: #069;
-	text-align: center;
-}
-.p1 {
-	font-family: Georgia, "Times New Roman", Times, serif;
-	text-align: center;
-}
-.p2 {
-	font-weight: bold;
-}
-.c3 {
-	font-size: 18px;
-	font-weight: bold;
-	color: #C00;
-	text-align: center;
-}
-.ps {
-	font-size: 14px;
-	font-weight: bold;
-	color: #C00;
-	text-align: center;
-}
+                * Coding and Transmission
 
-.list {
-	font-weight: bold;
-}
-a:link {
-	text-decoration: none;
-	color: #FFF;
-}
-a:visited {
-	text-decoration: none;
-	color: #FFF;
-}
-a:hover {
-	text-decoration: underline;
-	color: #F00;
-}
-a:active {
-	text-decoration: none;
-	text-align: center;
-}
-.mcr {
-	color: #000;
-}
-.p11 {
-	font-family: Georgia, "Times New Roman", Times, serif;
-	text-align: right;
-}
--->
-</style>
+                * Digital Signal Processing in Communications
 
-</head>
+                * Emerging technologies
 
-<body>
-      <p class="ch1">Scope &amp; Topics</p>
-      <p class="p1" style="margin-left:20px; margin-right:10px; text-align: justify;"><span class="p2">Signal &amp; Image Processing : An International Journal</span> is an Open Access peer-reviewed journal intended for researchers from academia and industry, who are active in the multidisciplinary field of signal & image processing. The scope of the journal covers all theoretical and practical aspects of the Digital Signal Processing &amp; Image processing, from basic research to development of application.</p>
-      <p class="p1" style="margin-left:20px; margin-right:10px; text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif;">Authors are solicited to contribute to the journal by submitting articles that illustrate research results, projects, surveying works and industrial experiences that describe significant advances in the areas of Signal &amp; Image processing. Topics of interest include, but are not limited to, the following<br />
-      </p>
-           <ul style="margin-left:50px; class="list">
-        <li>Applied Digital Signal Processing<br /></li><br />
-        <li>Coding and Transmission<br /></li><br />
-        <li>Digital Signal Processing in Communications<br /></li><br />
-        <li>Emerging technologies<br /></li><br />
-        <li>Emerging Technologies in Digital Signal Processing<br /></li><br />
-        <li>Image &amp; signal processing Applications<br /></li><br />
-        <li>Image Acquisition and Display:<br /></li><br />
-        <li>Image and Video Processing &amp; Analysis<br /></li><br />
-        <li>Image formation<br /></li><br />
-        <li>Image scanning, display, and printing<br /></li><br />
-        <li>Storage and Retrieval <br /></li></ul>
-    
-<h4 align="left">Important Dates</h4>
-<font color="red"><b>
-<ul style="margin-left:50px">
-<li>Submission deadline&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;16 July, 2013</li><br>
-<li>Notification&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;16 August, 2013</li><br>
-<li>Final manuscript due&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;18 August, 2013</li><br>
-<li>Publication date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;determined by the Editor-in-Chief</li></ul>
-</b></font><br>
-    <p align="center" >&nbsp;</p>
-    
-    </td>
-  </tr>
-  <tr bgcolor="#4a500b"></tr>
-  <tr bgcolor="#738133" class="fn" height="4">
-    <td height="3" ></td>
-    <td width="595"></td>
-    <td width="148"></td>
-  </tr>
-  <tr bgcolor="#5f671c">
-    <
-    
-  </tr>
-</table>
-</body>
+                * Emerging Technologies in Digital Signal Processing
+
+                * Image & signal processing Applications
+
+                * Image Acquisition and Display:
+
+                * Image and Video Processing & Analysis
+
+                * Image formation
+
+                * Image scanning, display, and printing
+
+                * Storage and Retrieval 
+
+
+Important Dates
+
+       Submission deadline     : 16 July, 2013
+       Acceptance notification : 16 August, 2013
+       Final manuscript due    : 18 August, 2013
+       Publication date        : determined by the Editor-in-Chief 
