@@ -1,5 +1,5 @@
-<h2><strong><p align="center"><font color="#FF0000"><font size="+1">Signal & Image Processing : An International Journal
-(SIPIJ)</font></font></strong></h2></p>
+<h3><strong><p align="center"><font color="#FF0000"><font size="+1">Signal & Image Processing : An International Journal
+(SIPIJ)</font></font></strong></h3></p>
 <h3><strong><font color="#FF0000">Scope & Topics :</font></strong></h3>
 <p style="font:normal 15px Trebuchet MS; line-height:23px;" align="justify">Signal & Image Processing : An International Journal is an Open Access peer-reviewed journal intended for researchers from academia and industry, who are active in the multidisciplinary field of signal & image processing. The scope of the journal covers all theoretical and practical aspects of the Digital Signal Processing & Image processing, from basic research to development of application.</p>
 <p style="font:normal 15px Trebuchet MS; line-height:23px;" align="justify">Authors are solicited to contribute to the journal by submitting articles that illustrate research results, projects, surveying works and industrial experiences that describe significant advances in the areas of Signal & Image processing. Topics of interest include, but are not limited to, the following
